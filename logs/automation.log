@@ -1,0 +1,20 @@
+2025-02-24 11:50:28 INFO  Tc_001_AccountRegisterationTest:16 - ***** Started Tc_001_AccountRegisterationTest *****
+2025-02-24 11:50:28 INFO  Tc_001_AccountRegisterationTest:18 - click on My Account
+2025-02-24 11:50:29 INFO  Tc_001_AccountRegisterationTest:20 - click on register
+2025-02-24 11:50:30 INFO  Tc_001_AccountRegisterationTest:23 - Sending Deatils to the inputs
+2025-02-24 11:50:32 INFO  Tc_001_AccountRegisterationTest:36 - Validating Message
+2025-02-24 11:59:32 INFO  Tc_001_AccountRegisterationTest:16 - ***** Started Tc_001_AccountRegisterationTest *****
+2025-02-24 11:59:32 INFO  Tc_001_AccountRegisterationTest:18 - click on My Account
+2025-02-24 11:59:33 INFO  Tc_001_AccountRegisterationTest:20 - click on register
+2025-02-24 11:59:34 INFO  Tc_001_AccountRegisterationTest:23 - Sending Deatils to the inputs
+2025-02-24 11:59:35 INFO  Tc_001_AccountRegisterationTest:36 - Validating Message
+2025-02-24 12:22:24 INFO  Tc_001_AccountRegisterationTest:16 - ***** Started Tc_001_AccountRegisterationTest *****
+2025-02-24 12:22:24 INFO  Tc_001_AccountRegisterationTest:18 - click on My Account
+2025-02-24 12:22:25 INFO  Tc_001_AccountRegisterationTest:20 - click on register
+2025-02-24 12:22:25 INFO  Tc_001_AccountRegisterationTest:23 - Sending Deatils to the inputs
+2025-02-24 12:22:27 INFO  Tc_001_AccountRegisterationTest:36 - Validating Message
+2025-02-24 12:23:07 INFO  Tc_001_AccountRegisterationTest:16 - ***** Started Tc_001_AccountRegisterationTest *****
+2025-02-24 12:23:07 INFO  Tc_001_AccountRegisterationTest:18 - click on My Account
+2025-02-24 12:23:08 INFO  Tc_001_AccountRegisterationTest:20 - click on register
+2025-02-24 12:23:09 INFO  Tc_001_AccountRegisterationTest:23 - Sending Deatils to the inputs
+2025-02-24 12:23:11 INFO  Tc_001_AccountRegisterationTest:36 - Validating Message
